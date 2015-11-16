@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>Mime-Detective</id>
+        <version>$version$</version>
+        <title>Mime-Detective NuGet package</title>
+        <authors>Muraad Nofal</authors>
+        <owners>Muraad Nofal</owners>
+        <projectUrl>https://github.com/pwiesner/Mime-Detective</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A fork of https://github.com/Muraad/Mime-Detective packaged as a NuGet release</description>
+        <releaseNotes>
+          1.0.0.0 - Initial Release
+        </releaseNotes>
+        <copyright>Copyright 2015</copyright>
+    </metadata>
+</package>
